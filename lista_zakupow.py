@@ -4,5 +4,7 @@ shoping_list = {
     "zabka": ["mleko", "masło orzechowe", "chipsy"]}
 
 for kay, value in shoping_list.items():
+    for v in range(len(value)):
+        value[v] = value[v].capitalize()
     print(
         f"Idę do {kay.capitalize()} ,kupuję tu następujące rzeczy: {value}")

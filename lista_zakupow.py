@@ -1,7 +1,7 @@
 shoping_list = {
     "piekarnia": ["chleb", "bułka tarta", "bułki"],
     "warzywniak": ["pomidory", "ogórek", "ziemniaki"],
-    "zabka": ["mleko", "masło orzechowe", "chipsy", "test"]}
+    "zabka": ["mleko", "masło orzechowe", "chipsy", ]}
 sum = 0
 for kay, value in shoping_list.items():
     for v in range(len(value)):

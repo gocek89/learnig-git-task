@@ -1,5 +1,5 @@
 shoping_list = {
-    "piekarnia": ["chleb", "bułka tarta", "bułki"],
+    "piekarnia": ["chleb", "bułka tarta", "bułki", "kokosanki"],
     "warzywniak": ["pomidory", "ogórek", "ziemniaki"],
     "zabka": ["mleko", "masło orzechowe", "chipsy", ]}
 sum = 0
